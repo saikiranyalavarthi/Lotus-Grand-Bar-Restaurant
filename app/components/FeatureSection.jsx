@@ -5,19 +5,19 @@ import Link from "next/link";
 
 const cards = [
   {
-    image: "/Banner/Banner4.jpg",
+    image: "/Banner/banner4.jpg",
     title: "OUR MENU",
     subtitle: "View Our Specialties",
     link: "/menu",
   },
   {
-    image: "/Banner/Banner5.jpg",
+    image: "/Banner/banner5.jpg",
     title: "DELIVERY",
     subtitle: "Home delivery or take away food",
     link: "/contact",
   },
   {
-    image: "/Banner/Banner6.jpg",
+    image: "/Banner/banner6.jpg",
     title: "INSIDE FLOORES",
     subtitle: "View the Gallery",
     link: "/gallery",
